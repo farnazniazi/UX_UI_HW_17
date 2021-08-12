@@ -1,0 +1,85 @@
+.inline-block{
+
+ display: inline-block;
+ vertical-align: top ;
+
+}
+.logo {
+
+    background-color: #9AACA2;
+    width: 100%;
+    padding: 1%;
+    text-align: left;
+}
+nav {
+    background-color: #9AACA2;
+    width: 100%;
+    padding: 1%;
+}
+ul {
+    width: auto;
+    text-align: right;
+}
+nav li {
+    display: inline-block;
+    font-size: 24px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    padding: 20px;
+  }
+
+.heroImg{
+    background-color: #BCD0C4;
+    height: 900px;
+    padding: 25px;
+    
+}
+.heroImg h1{
+   font-family: 'Barlow Semi Condensed', sans-serif;
+   font-size: 50px;
+   font-weight: bold;
+}
+.heroImg h2{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+ }
+ .heroImg p{
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px;
+    
+ }
+ .content button{
+    align-content: center;
+ }
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+footer {
+    background-color: #9AACA2;
+    padding: 5%;
+    margin: auto;
+    text-align: center;
+}
+footer h3 {
+    font-size: 36px;
+    font-family: 'Barlow', sans-serif;
+}
+footer ul {
+        display: inline-block;
+        vertical-align: top ;
+        padding: 10px;
+       
+}
+footer li {
+    display: inline-block;
+    padding: 10px;
+    align-content: center;
+  }
+
+  footer p{
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif;
+
+  }
